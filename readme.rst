@@ -2,10 +2,10 @@
 Website Ticketing Kereta
 ###################
 
-Hasil pekerjaan uji kompetensi kejuruan
-Jurusan Rekayasa Perangkat Lunak
-SMK Telkom Purwokerto
-2016
+Hasil pekerjaan uji kompetensi kejuruan _
+Jurusan Rekayasa Perangkat Lunak _
+SMK Telkom Purwokerto _
+2016 _
 
 *******************
 Aditional information
